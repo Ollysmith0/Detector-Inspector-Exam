@@ -34,5 +34,6 @@
 1. Application flow (if you don't keep follow the instruction above, the application might suddenly crashed)
 2. Styling (Making UI more friendly)
 3. Unit Test
+4. Table Analyze (For different table fot different value, to build any Graphs from Table might take a lot of time)
 
 # Thanks for reading, this might take about 5 minutes but making the application more easy to use. 👌
