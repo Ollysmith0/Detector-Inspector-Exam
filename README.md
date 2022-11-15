@@ -35,4 +35,4 @@
 2. Styling (Making UI more friendly)
 3. Unit Test
 
-# Thanks for reading, this might take about 5 minutes but making the application more easy to use.
+# Thanks for reading, this might take about 5 minutes but making the application more easy to use. 👌
