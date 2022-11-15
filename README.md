@@ -1,6 +1,6 @@
 # Detector-Inspector-Exam
-# This Challenge is quite new to me.
-# I have spent almost a day for researching to complete this task.
+- This Challenge is quite new to me.
+- I have spent almost a day for researching to complete this task.
 
 # This project is divided into 2 parts:
 1. client - using React
@@ -12,7 +12,7 @@
 3. npm start - both on client and server
 
 # Instruction
-# This application is received your URL as an input and the output is the image of graph base on the table in your URL (website)
+- This application is received your URL as an input and the output is the image of graph base on the table in your URL (website)
 1. Run the app
 2. Input valid URL
 3. Submit to see the preview graph base on the table in your URL (website)
@@ -27,10 +27,10 @@
 6. Client using file-saver (To save graph as an image) to your computer.
 
 # Improvement
-# To be honest, this is the first time I'm doing this challenge, 
-# at first it's really confused me to consider which side (client or server) to output an image,
-# how to scan for a table... And finally I have completed it, I fell so excited. And somehow, there should be
-# some point that need to be improve. I'll list it here if I got more time:
+- To be honest, this is the first time I'm doing this challenge, 
+- at first it's really confused me to consider which side (client or server) to output an image,
+- how to scan for a table... And finally I have completed it, I fell so excited. And somehow, there should be
+- some point that need to be improve. I'll list it here if I got more time:
 1. Application flow (if you don't keep follow the instruction above, the application might suddenly crashed)
 2. Styling (Making UI more friendly)
 3. Unit Test
