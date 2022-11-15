@@ -23,7 +23,7 @@
 2. Server analyze the url and send html document (string) to client.
 3. Client get the html document and render.
 4. Client get all the tables inside the document.
-5. Client using chart JS(graph helper library) to display an graph.
+5. Client using chart JS (graph helper library) to display an graph.
 6. Client using file-saver (To save graph as an image) to your computer.
 
 # Improvement
