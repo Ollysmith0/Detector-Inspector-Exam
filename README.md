@@ -15,8 +15,9 @@
 - This application is received your URL as an input and the output is the image of graph base on the table in your URL (website)
 1. Run the app
 2. Input valid URL
-3. Submit to see the preview graph base on the table in your URL (website)
-4. Save as an image to your computer
+3. Submit to see page rendered
+4. Click preview button for previewing a graph from table inside website
+5. Save as an image to your computer
 
 # Application flow
 1. Client using React will received an URL and send to server.
